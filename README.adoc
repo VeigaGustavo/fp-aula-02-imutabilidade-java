@@ -1,4 +1,4 @@
-= Praticando Imutabilidade em Java
+Praticando Imutabilidade em Java
 
 Um repositório com a estrutura básica de um projeto de exemplo
 para a criação de classes e records para testar os conceitos de imutabilidade
